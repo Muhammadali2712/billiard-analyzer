@@ -1,0 +1,2 @@
+# billiard-analyzer
+Курсовой проект
